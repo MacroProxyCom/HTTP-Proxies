@@ -4,7 +4,7 @@
 Understanding the Role and Functionality of HTTP Proxies.
 
 # Definition of HTTP Proxy
-Unlike FTP proxies, which are designed for File Transfer Protocol traffic to facilitate internet file transfers, and SMTP proxies, which are intended for Simple Mail Transfer Protocol traffic used in email communication, HTTP proxies may lack the encryption of HTTPS proxies and the versatility of SOCKS proxies. However, [HTTP proxies](https://www.macroproxy.com/blog/http-proxy#What%20Is%20HTTP%20Proxy%20Meaning?) are essential and widely used for managing HTTP traffic, primarily for web browsing at the application layer.
+Unlike FTP proxies, which are designed for File Transfer Protocol traffic to facilitate internet file transfers, and SMTP proxies, which are intended for Simple Mail Transfer Protocol traffic used in email communication, HTTP proxies may lack the encryption of HTTPS proxies and the versatility of SOCKS proxies. However, [HTTP proxies](https://www.macroproxy.com/blog/http-proxy) are essential and widely used for managing HTTP traffic, primarily for web browsing at the application layer.
 
 # Uses of HTTP Proxies
 Anonymity: HTTP proxies can hide the client's IP address, providing a layer of anonymity.
